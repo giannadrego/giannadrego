@@ -36,3 +36,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
+<div align="center">
+
+  ![snake gif](https://github.com/giannadrego/giannadrego/blob/output/github-snake-dark.svg)
+
+</div>
+
