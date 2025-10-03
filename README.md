@@ -1,10 +1,10 @@
 ## Hi, I'm Gianna Drego 👋
 
 
-👩🏻‍💻 Software Developer  
-🎓 Computer Science graduate from The George Washington University  
-🚀 Currently leading front-end development for an AI-powered tutoring platform  
-🌱 Learning more about Generative AI
+👩🏻‍💻 Software + GenAI Engineer
+🚀 Currently building Agents on AWS Bedrock for content generation + Front-End development of an AI-powered e-learning platform
+🎓 Computer Science graduate from The George Washington University
+🌱 Learning more about Generative AI and Machine Learning
 
 
 ## 🧰 Tech Stack
