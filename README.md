@@ -1,8 +1,8 @@
 ## Hi, I'm Gianna Drego 👋
 
 
-👩🏻‍💻 Software + GenAI Engineer
-🚀 Currently building Agents on AWS Bedrock for content generation + Front-End development of an AI-powered e-learning platform
+👩🏻‍💻 Software Engineer
+🚀 Currently building Agents on AWS Bedrock for content generation and Front-End development of an AI-powered e-learning platform
 🎓 Computer Science graduate from The George Washington University
 🌱 Learning more about Generative AI and Machine Learning
 
