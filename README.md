@@ -3,7 +3,9 @@
 
 👩🏻‍💻 Software Engineer
 
-🚀 Currently building Agents on AWS Bedrock for content generation and Front-End development of an AI-powered e-learning platform
+🚀 Currently working as a Software Developer at an Ed-Tech Startup. 
+
+🤖 Building AI-powered Web solutions on the side.
 
 🎓 Computer Science graduate from The George Washington University
 
