@@ -1,15 +1,10 @@
 ## Hi, I'm Gianna Drego 👋
 
-
 👩🏻‍💻 Software Engineer
 
-🚀 Currently working as a Software Developer at an Ed-Tech Startup. 
-
-🤖 Building AI-powered Web solutions on the side.
+🤖 Building AI-powered solutions on the side.
 
 🎓 Computer Science graduate from The George Washington University
-
-🌱 Learning more about Generative AI and Machine Learning
 
 
 ## 🧰 Tech Stack
